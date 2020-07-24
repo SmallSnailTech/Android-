@@ -21,7 +21,7 @@ system/core/init/property_service.cpp
 本文主要的流程如下，init.rc解析及系统核心服务的启动请参考：[《Android启动流程之二init.rc解析》](https://www.jianshu.com/p/3f54d7cd80b9
 ) 和《Android启动流程之三 系统核心服务的启动》
 
-![大致流程图](https://upload-images.jianshu.io/upload_images/2484366-0201d6060087da3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+!(https://github.com/alexluotututu/Android-/blob/master/images/init/init_1.png)
 
 
 
